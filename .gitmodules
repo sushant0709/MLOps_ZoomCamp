@@ -1,0 +1,3 @@
+[submodule "Module3_Orchestration/mage-mlops"]
+	path = Module3_Orchestration/mage-mlops
+	url = https://github.com/sushant0709/mage-mlops.git
